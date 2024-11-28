@@ -24,8 +24,8 @@
 
 ---
 # My Socials
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0011?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/IT-AcademySK)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&label=IT%20Academy)](https://www.facebook.com/ITAcademySK)
+![YouTube Badge](https://img.shields.io/badge/YouTube-FF0011?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/IT-AcademySK)
+![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&label=IT%20Academy)](https://www.facebook.com/ITAcademySK)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&label=VITA)](https://www.facebook.com/VitaAcademySK)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miroslav-reiter/)
 
