@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=mu682g&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 # Languages, Tools and Frameworks   
-<img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-c.png" />
+<img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-c.png" br/>
 <img align="left" alt="html5" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-html5.png" />
 <img align="left" alt="java" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-java.png" />
 <img align="left" alt="javascript" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-javascript.png" />
