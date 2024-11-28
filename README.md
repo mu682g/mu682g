@@ -21,8 +21,8 @@
 <img align="left" alt="nosql" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-nosql.png" />
 <img align="left" alt="python" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-python.png" />
 <img align="left" alt="R" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-r.png" />
-)
 
+---
 # My Socials
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0011?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/IT-AcademySK)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&label=IT%20Academy)](https://www.facebook.com/ITAcademySK)
