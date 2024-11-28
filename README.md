@@ -11,7 +11,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mu682g&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
----
 
 # Languages, Tools and Frameworks   
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-c.png" />
@@ -20,7 +19,7 @@
 <img align="left" alt="javascript" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-javascript.png" />
 <img align="left" alt="nosql" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-nosql.png" />
 <img align="left" alt="python" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-python.png" />
-<img align="left" alt="R" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-r.png" />
+<img align="left" alt="R" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-r.png" /)
 
 # My Socials
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0011?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/IT-AcademySK)
